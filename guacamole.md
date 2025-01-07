@@ -1,3 +1,6 @@
 # guacamole
-## ingrdeients 
+## ingrdeients
+*avocado
+*lemon
+*salt 
 ## instrutions
